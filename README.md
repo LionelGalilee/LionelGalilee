@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lionel Mallet
+- 👀 I’m interested in Symfony
+- 🌱 I’m currently learning PimCore
+- 💞️ I’m looking to collaborate on PIM/DAM/MDM frameworks
+- 📫 How to reach me lmallet@galilee.fr
