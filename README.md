@@ -1,5 +1,4 @@
-- 👋 Hello World, I’m Lionel Mallet
-- 👋 Hello, I’m Lionel Mallet again
+- 👋 Hi, I’m Lionel Mallet
 - 👀 I’m interested in Symfony
 - 🌱 I’m currently learning Design Patterns
 - 💞️ I’m looking to collaborate on PIM/DAM/MDM frameworks
