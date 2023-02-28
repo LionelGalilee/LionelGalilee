@@ -2,4 +2,4 @@
 - 👀 I’m interested in Symfony
 - 🌱 I’m currently learning Design Patterns
 - 💞️ I’m looking to collaborate on PIM/DAM/MDM frameworks
-- 📫 How to reach me lmallet@galilee.fr
+- 📫 How to write me? send me an email to lmallet@galilee.fr
