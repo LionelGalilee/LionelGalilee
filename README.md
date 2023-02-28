@@ -1,4 +1,4 @@
-- 👋 Hi local2, I’m Lionel Mallet
+- 👋 Hi local 3, I’m Lionel Mallet
 - 👀 I’m interested in Symfony
 - 🌱 I’m currently learning Design Patterns
 - 💞️ I’m looking to collaborate on PIM/DAM/MDM frameworks
